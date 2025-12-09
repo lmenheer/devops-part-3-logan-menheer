@@ -19,7 +19,7 @@ spec:
         - name: ghcr-creds
       containers:
         - name: transactions
-          image: ghcr.io/feranmi-ige/lmenheer/devops-part-3-logan-menheer-transactions:latest
+          image: ghcr.io/lmenheer/devops-part-3-logan-menheer-transactions:latest
           imagePullPolicy: IfNotPresent
           ports:
             - name: http
