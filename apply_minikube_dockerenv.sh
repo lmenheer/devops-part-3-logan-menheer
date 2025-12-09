@@ -1,3 +1,5 @@
+echo "My very cool scripy"
+
 #!/usr/bin/env bash
 set -euo pipefail
 
